@@ -1,3 +1,4 @@
 witches_data
 *.sqlite
 *.csv
+gh_token.txt
